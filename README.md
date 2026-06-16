@@ -4,7 +4,7 @@ I developed a trading analytics dashboard to visualize market data, identify cor
 
 An interactive dashboard for analysing intraday **NIFTY spot and options-market behaviour** using price, open interest, volume, buy/sell quantity, adaptive moving averages, momentum indicators, and frame-by-frame market replay.
 
-![NIFTY Options Trading Analytics Dashboard](assets/dashboard-overview.png)
+![NIFTY Options Trading Analytics Dashboard](./dashboard-overview.png)
 
 ## Overview
 
